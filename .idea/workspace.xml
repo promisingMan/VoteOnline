@@ -7,8 +7,250 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2e3ee5b6-5660-4496-9779-9355e1f4051b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/VoteOnlineSystem_war.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/VoteOnlineSystem_war_exploded.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_9_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_9_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_9_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_jsqlparser_jsqlparser_0_9_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_pagehelper_pagehelper_5_0_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_mchange_c3p0_0_9_5_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_mchange_mchange_commons_java_0_2_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_fileupload_commons_fileupload_1_3_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_jstl_1_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_46.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_8_9.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_generator_mybatis_generator_core_1_3_7.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_4_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_3_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_4_3_18_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aspects_4_3_18_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_4_3_18_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_4_3_18_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_4_3_18_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_4_3_18_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_4_3_18_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_4_3_18_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_4_3_18_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_4_3_18_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_4_3_18_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VoteOnlineSystem.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/WebMavenDemo/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/WebMavenDemo/VoteIndex.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/WebMavenDemo/WEB-INF/classes/bean/MSG.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/WebMavenDemo/WEB-INF/classes/bean/Option.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/WebMavenDemo/WEB-INF/classes/bean/OptionExample$Criteria.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/WebMavenDemo/WEB-INF/classes/bean/OptionExample$Criterion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/WebMavenDemo/WEB-INF/classes/bean/OptionExample$GeneratedCriteria.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/WebMavenDemo/WEB-INF/classes/bean/OptionExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/WebMavenDemo/WEB-INF/classes/bean/Theme.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/WebMavenDemo/WEB-INF/classes/bean/ThemeExample$Criteria.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/WebMavenDemo/WEB-INF/classes/bean/ThemeExample$Criterion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/WebMavenDemo/WEB-INF/classes/bean/ThemeExample$GeneratedCriteria.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/WebMavenDemo/WEB-INF/classes/bean/ThemeExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/WebMavenDemo/WEB-INF/classes/bean/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/WebMavenDemo/WEB-INF/classes/bean/UserExample$Criteria.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/WebMavenDemo/WEB-INF/classes/bean/UserExample$Criterion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/WebMavenDemo/WEB-INF/classes/bean/UserExample$GeneratedCriteria.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/WebMavenDemo/WEB-INF/classes/bean/UserExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/WebMavenDemo/WEB-INF/classes/controller/CreateVoteController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/WebMavenDemo/WEB-INF/classes/controller/DoVoteController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/WebMavenDemo/WEB-INF/classes/controller/ModifyVoteController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/WebMavenDemo/WEB-INF/classes/controller/ShowVoteController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/WebMavenDemo/WEB-INF/classes/controller/UserController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/WebMavenDemo/WEB-INF/classes/converts/MyDateConverter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/WebMavenDemo/WEB-INF/classes/dao/OptionMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/WebMavenDemo/WEB-INF/classes/dao/ThemeMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/WebMavenDemo/WEB-INF/classes/dao/UserMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/WebMavenDemo/WEB-INF/classes/filter/CheckLoginFilter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/WebMavenDemo/WEB-INF/classes/jdbc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/WebMavenDemo/WEB-INF/classes/mapper/OptionMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/WebMavenDemo/WEB-INF/classes/mapper/ThemeMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/WebMavenDemo/WEB-INF/classes/mapper/UserMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/WebMavenDemo/WEB-INF/classes/mybatis.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/WebMavenDemo/WEB-INF/classes/service/OptionService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/WebMavenDemo/WEB-INF/classes/service/ThemeService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/WebMavenDemo/WEB-INF/classes/service/UserService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/WebMavenDemo/WEB-INF/classes/spring-db.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/WebMavenDemo/WEB-INF/classes/spring-mvc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/WebMavenDemo/WEB-INF/classes/spring-mybatis.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/WebMavenDemo/WEB-INF/classes/spring-service.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/WebMavenDemo/WEB-INF/classes/spring-tx.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/WebMavenDemo/WEB-INF/classes/test/DateTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/WebMavenDemo/WEB-INF/classes/test/MBGTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/WebMavenDemo/WEB-INF/classes/utils/DateConvertUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/WebMavenDemo/WEB-INF/classes/utils/GetRealIPUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/WebMavenDemo/WEB-INF/classes/utils/MD5Util.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/WebMavenDemo/WEB-INF/classes/utils/UUIDUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/WebMavenDemo/WEB-INF/lib/aspectjweaver-1.8.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/WebMavenDemo/WEB-INF/lib/c3p0-0.9.5.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/WebMavenDemo/WEB-INF/lib/commons-fileupload-1.3.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/WebMavenDemo/WEB-INF/lib/commons-io-2.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/WebMavenDemo/WEB-INF/lib/commons-logging-1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/WebMavenDemo/WEB-INF/lib/jackson-annotations-2.9.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/WebMavenDemo/WEB-INF/lib/jackson-core-2.9.6.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/WebMavenDemo/WEB-INF/lib/jackson-databind-2.9.6.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/WebMavenDemo/WEB-INF/lib/jsqlparser-0.9.5.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/WebMavenDemo/WEB-INF/lib/jstl-1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/WebMavenDemo/WEB-INF/lib/mchange-commons-java-0.2.11.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/WebMavenDemo/WEB-INF/lib/mybatis-3.4.6.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/WebMavenDemo/WEB-INF/lib/mybatis-generator-core-1.3.7.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/WebMavenDemo/WEB-INF/lib/mybatis-spring-1.3.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/WebMavenDemo/WEB-INF/lib/mysql-connector-java-5.1.46.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/WebMavenDemo/WEB-INF/lib/pagehelper-5.0.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/WebMavenDemo/WEB-INF/lib/spring-aop-4.3.18.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/WebMavenDemo/WEB-INF/lib/spring-aspects-4.3.18.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/WebMavenDemo/WEB-INF/lib/spring-beans-4.3.18.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/WebMavenDemo/WEB-INF/lib/spring-context-4.3.18.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/WebMavenDemo/WEB-INF/lib/spring-core-4.3.18.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/WebMavenDemo/WEB-INF/lib/spring-expression-4.3.18.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/WebMavenDemo/WEB-INF/lib/spring-jdbc-4.3.18.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/WebMavenDemo/WEB-INF/lib/spring-tx-4.3.18.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/WebMavenDemo/WEB-INF/lib/spring-web-4.3.18.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/WebMavenDemo/WEB-INF/lib/spring-webmvc-4.3.18.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/WebMavenDemo/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/WebMavenDemo/analysisResult.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/WebMavenDemo/createVote.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/WebMavenDemo/doVote.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/WebMavenDemo/editVote.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/WebMavenDemo/fail.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/WebMavenDemo/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/WebMavenDemo/loginAndRegister.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/WebMavenDemo/showVoteList.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/WebMavenDemo/static/bootstrap-3.3.7-dist/css/bootstrap-theme.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/WebMavenDemo/static/bootstrap-3.3.7-dist/css/bootstrap-theme.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/WebMavenDemo/static/bootstrap-3.3.7-dist/css/bootstrap-theme.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/WebMavenDemo/static/bootstrap-3.3.7-dist/css/bootstrap-theme.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/WebMavenDemo/static/bootstrap-3.3.7-dist/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/WebMavenDemo/static/bootstrap-3.3.7-dist/css/bootstrap.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/WebMavenDemo/static/bootstrap-3.3.7-dist/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/WebMavenDemo/static/bootstrap-3.3.7-dist/css/bootstrap.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/WebMavenDemo/static/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/WebMavenDemo/static/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/WebMavenDemo/static/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/WebMavenDemo/static/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/WebMavenDemo/static/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/WebMavenDemo/static/bootstrap-3.3.7-dist/js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/WebMavenDemo/static/bootstrap-3.3.7-dist/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/WebMavenDemo/static/bootstrap-3.3.7-dist/js/npm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/WebMavenDemo/static/css/ajax_login.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/WebMavenDemo/static/css/base.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/WebMavenDemo/static/css/bootstrap-table.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/WebMavenDemo/static/css/font_vusdv5quzko9lik9.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/WebMavenDemo/static/css/jquery.datetimepicker.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/WebMavenDemo/static/css/login2.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/WebMavenDemo/static/css/main-20171010_2111.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/WebMavenDemo/static/css/my.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/WebMavenDemo/static/css/public.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/WebMavenDemo/static/css/reg.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/WebMavenDemo/static/css/style_1.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/WebMavenDemo/static/css/zzsc.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/WebMavenDemo/static/fonts/font_vusdv5quzko9lik9.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/WebMavenDemo/static/fonts/font_vusdv5quzko9lik9.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/WebMavenDemo/static/fonts/font_vusdv5quzko9lik9.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/WebMavenDemo/static/fonts/font_vusdv5quzko9lik9.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/WebMavenDemo/static/images/003.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/WebMavenDemo/static/images/004.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/WebMavenDemo/static/images/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/WebMavenDemo/static/images/Eminem.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/WebMavenDemo/static/images/Tupac.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/WebMavenDemo/static/images/after.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/WebMavenDemo/static/images/apple.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/WebMavenDemo/static/images/before.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/WebMavenDemo/static/images/boy.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/WebMavenDemo/static/images/chicken.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/WebMavenDemo/static/images/egg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/WebMavenDemo/static/images/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/WebMavenDemo/static/images/girl.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/WebMavenDemo/static/images/king.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/WebMavenDemo/static/images/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/WebMavenDemo/static/images/luhan.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/WebMavenDemo/static/images/peach.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/WebMavenDemo/static/images/pear.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/WebMavenDemo/static/images/photo_icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/WebMavenDemo/static/images/pictureUpload.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/WebMavenDemo/static/images/queen.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/WebMavenDemo/static/images/upload.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/WebMavenDemo/static/images/watermelon.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/WebMavenDemo/static/images/wyf.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/WebMavenDemo/static/js/bootstrap-table.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/WebMavenDemo/static/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/WebMavenDemo/static/js/icheck.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/WebMavenDemo/static/js/jquery-1.9.0.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/WebMavenDemo/static/js/jquery-3.3.1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/WebMavenDemo/static/js/jquery-3.3.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/WebMavenDemo/static/js/jquery.datetimepicker.full.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/WebMavenDemo/static/js/jquery.datetimepicker.full.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/WebMavenDemo/static/js/jquery.datetimepicker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/WebMavenDemo/static/js/jquery.datetimepicker.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/WebMavenDemo/static/js/jquery.form.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/WebMavenDemo/static/js/jquery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/WebMavenDemo/static/js/jquery.lazyload.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/WebMavenDemo/static/js/jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/WebMavenDemo/static/js/jquery.qrcode.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/WebMavenDemo/static/js/jump.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/WebMavenDemo/static/js/lang.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/WebMavenDemo/static/js/layer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/WebMavenDemo/static/js/login.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/WebMavenDemo/updatePassword.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/WebMavenDemo/voteAnalysis.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/WebMavenDemo/voteInfo.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/WebMavenDemo/voteResult.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/bean/MSG.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/bean/Option.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/bean/OptionExample$Criteria.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/bean/OptionExample$Criterion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/bean/OptionExample$GeneratedCriteria.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/bean/OptionExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/bean/Theme.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/bean/ThemeExample$Criteria.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/bean/ThemeExample$Criterion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/bean/ThemeExample$GeneratedCriteria.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/bean/ThemeExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/bean/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/bean/UserExample$Criteria.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/bean/UserExample$Criterion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/bean/UserExample$GeneratedCriteria.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/bean/UserExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/controller/CreateVoteController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/controller/DoVoteController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/controller/ModifyVoteController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/controller/ShowVoteController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/controller/UserController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/converts/MyDateConverter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dao/OptionMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dao/ThemeMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dao/UserMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/filter/CheckLoginFilter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jdbc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mapper/OptionMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mapper/ThemeMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mapper/UserMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mybatis.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/service/OptionService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/service/ThemeService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/service/UserService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spring-db.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spring-mvc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spring-mybatis.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spring-service.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spring-tx.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/test/DateTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/test/MBGTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/utils/DateConvertUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/utils/GetRealIPUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/utils/MD5Util.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/utils/UUIDUtil.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -111,28 +353,13 @@
     <panes>
       <pane id="Scope" />
       <pane id="PackagesPane" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="VoteOnlineSystem" type="b2602c69:ProjectViewProjectNode" />
-              <item name="VoteOnlineSystem" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="VoteOnlineSystem" type="b2602c69:ProjectViewProjectNode" />
-              <item name="VoteOnlineSystem" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552229947636" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552230176927" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -140,6 +367,11 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.46352723" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\IDEA_Code\VoteOnlineSystem" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -237,15 +469,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1552228502581</updated>
-      <workItem from="1552228506235" duration="1478000" />
+      <workItem from="1552228506235" duration="1689000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1478000" />
+    <option name="totallyTimeSpent" value="1689000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Designer" />
       <window_info id="Image Layers" />
@@ -257,7 +490,7 @@
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Application Servers" weight="0.32914925" />
       <window_info anchor="bottom" id="Spring" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32960895" />
+      <window_info anchor="bottom" id="Terminal" weight="0.32960895" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Messages" />
@@ -267,7 +500,7 @@
       <window_info anchor="bottom" id="MyBatis Sql Log" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32914925" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3282123" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
